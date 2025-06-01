@@ -1,0 +1,50 @@
+venv/
+.env/
+.DS_Store
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy cache
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+
+# Logs and local dev files
+*.log
+*.sqlite3
+
+# Secrets / Environment Variables
+.env
+.env.*
+
+# IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Packaging
+build/
+dist/
+*.egg-info/
