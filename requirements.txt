@@ -39,3 +39,4 @@ langchain-neo4j
 langchain_experimental
 langchain_deepseek
 mcp[cli]
+whisper
